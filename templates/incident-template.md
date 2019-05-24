@@ -1,4 +1,5 @@
 > Template from: [Jane Miceli](https://github.com/janemiceli/postmortem-playbook/)
+> Ths accompanies the blog post [here|https://driftboatdave.com/2019/05/23/postmortems-with-teeth-but-no-bite-2/]
 Start every retrospective stating the following
 
 1. This is a blameless retrospective. 
@@ -75,5 +76,5 @@ Start every retrospective stating the following
 |     Add item to postportem list    |           |     |  Leader          |       |    ASAP      |
 
 ### Supporting Documents and References
-[Best example ever| https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/]
+[Best example ever|https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/]
 
